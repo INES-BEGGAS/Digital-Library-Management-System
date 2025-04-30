@@ -16,7 +16,8 @@ It is built based on Object-Oriented Programming (OOP) principles such as Encaps
 - Navigate to the file:
    Main.java
 - Run Main.java
-  Student: Ines Beggas 
+ 
+ - Student: Ines Beggas 
    Group: 01\A
   
 
